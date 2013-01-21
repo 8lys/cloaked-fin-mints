@@ -1,2 +1,2 @@
-cloaked-fin-mints
+Fin Mints
 =================
